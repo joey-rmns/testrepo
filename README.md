@@ -2,4 +2,4 @@
 
 ## Editing the file 
 
-its a markdown gile in this respository.
+its a markdown file in this respository.
